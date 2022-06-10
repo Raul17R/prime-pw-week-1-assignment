@@ -1,7 +1,7 @@
 /* Give your page a fun background color */
 body{
     background-color: darkgreen;
-
+    font-family:sans-serif helvetica;
 }
 .r-header{
     background-color: brown;
@@ -12,6 +12,13 @@ body{
     font: italic;
     color: chartreuse;
 }
+
+img{
+    border-radius: 50%;
+    border:10px solid springgreen;
+}
+
+
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
