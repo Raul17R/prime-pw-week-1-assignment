@@ -102,7 +102,7 @@ Now that we have content in our HTML file, let's make it look nice with some sty
   - [Here is a quick reference](https://www.w3schools.com/tags/tag_link.asp)
 
 *When you're done, make another "`commit`" with `git`.*
-
+a
 Here is an example of what your assignment could look like: 
 
 ![](images/mockup.png)
