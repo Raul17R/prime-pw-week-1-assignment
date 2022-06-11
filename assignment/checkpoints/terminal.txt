@@ -17,7 +17,7 @@
     -In a folder countaining files will list the name of all the files that are in that folder
 
 # 6 - What is a quick way to create a new file?
-    - touch "name of the new file" "mynotes.txt"
+    - touch "name of the new file" " mynotes.txt"
 
 # 7 - Run 'git --version' in your terminal. What is the output?
     -It returns the version thats being use for git
